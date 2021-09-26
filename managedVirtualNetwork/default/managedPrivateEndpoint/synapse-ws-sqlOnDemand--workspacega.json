@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--workspacega",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0f39574d-d756-48cf-b622-0e27a6943bd2/resourceGroups/1-253782ec-playground-sandbox/providers/Microsoft.Synapse/workspaces/workspacega",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"workspacega-ondemand.375b513b-4c4c-44c4-bec7-ae889354ac07.sql.azuresynapse.net"
+		]
+	}
+}

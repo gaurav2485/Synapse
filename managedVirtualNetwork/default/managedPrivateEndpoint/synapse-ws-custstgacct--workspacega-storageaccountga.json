@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--workspacega-storageaccountga",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0f39574d-d756-48cf-b622-0e27a6943bd2/resourceGroups/1-253782ec-playground-sandbox/providers/Microsoft.Storage/storageAccounts/storageaccountga",
+		"groupId": "dfs",
+		"fqdns": [
+			"storageaccountga.dfs.core.windows.net"
+		]
+	}
+}
